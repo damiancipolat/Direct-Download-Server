@@ -12,6 +12,7 @@ En el sig. ejemplo podemos definir distintos servers:
 - **GRATIS**: Podemos introducir una demora, para ofrecer una taza de descarga muy baja, dando la oportunida de unirse como cliente y acceder a una mejor taza.
 
 ### Diagrama:
+> Un esquema de como podria ser un diseño que use este proyecto para una web real.
 ![N|Solid](http://damiancipolat.com/webFiles/direct_download.png)
 
 #### Instalación
