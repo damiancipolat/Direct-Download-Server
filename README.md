@@ -42,15 +42,25 @@ $ node app.js 7000 10
 #### Ejemplos de usso:
 
 Descarga en el server pago:
+
 http://127.0.0.1:9000/test1.file
+
 http://127.0.0.1:9000/test2.file
+
 http://127.0.0.1:9000/test3.file
 
 Descarga en el server Trial:
+
 http://127.0.0.1:8000/test1.file
+
 http://127.0.0.1:8000/test2.file
+
 http://127.0.0.1:8000/test3.file
 
 Descarga en el server Free:
+
 http://127.0.0.1:7000/test1.file
+
 http://127.0.0.1:7000/test2.file
+
+http://127.0.0.1:7000/test3.file
