@@ -12,7 +12,17 @@ En el sig. ejemplo podemos definir distintos servers:
 - **GRATIS**: Podemos introducir una demora, para ofrecer una taza de descarga muy baja, dando la oportunida de unirse como cliente y acceder a una mejor taza.
 
 ```sh
-Para ejecutar, simulemos diferentes entornos:
+#Instalar
+$ npm install
+
+#Generar archivos de pruebas:
+$ node 150000 test1.file
+$ node 1500 test2.file
+$ node 1000000 test3.file
+```
+
+```sh
+#Para ejecutar, simulemos diferentes entornos:
 
 #Iniciar un server sin demoras de descarga.
 $ node app.js 9000 0
