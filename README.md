@@ -3,8 +3,7 @@ En este repositorio se encuentra un proyecto de servidor de descarga directa de 
 
 Las tecnologías usadas fueron: NODE.JS / EXPRESSJS.
 
-**Escenario:**
-
+### Escenario:
 Este repositorio fue creado como ejemplo base, para un sitio de descarga de archivos con subscripción, en los cuales ofrecemos el descargar archivos hosteados pero con una taza de descarga muy baja y en otros una taza mucho más alta.
 
 En el sig. ejemplo podemos definir distintos servers:
