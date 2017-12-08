@@ -64,3 +64,7 @@ http://127.0.0.1:7000/test1.file
 http://127.0.0.1:7000/test2.file
 
 http://127.0.0.1:7000/test3.file
+
+
+### Resultados:
+En posteriores pruebas encontre que puede usarse como server de streaming de video y audio, funciona en aplicaciones como VLC.
