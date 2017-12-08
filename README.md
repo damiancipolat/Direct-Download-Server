@@ -21,9 +21,9 @@ En el sig. ejemplo podemos definir distintos servers:
 $ npm install
 
 #Generar archivos de pruebas:
-$ node 150000 test1.file
-$ node 1500 test2.file
-$ node 1000000 test3.file
+$ node file_gen.js 150000 test1.file
+$ node file_gen.js 1500 test2.file
+$ node file_gen.js 1000000 test3.file
 ```
 
 #### Pruebas
