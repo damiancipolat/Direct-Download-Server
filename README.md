@@ -11,8 +11,8 @@ En el sig. ejemplo podemos definir distintos servers:
 - **BAJA**: Podemos definir un server que tena una taza de demora minima, estos pueden ser para clientes con codígos de promoción o de prueba del servicio.
 - **GRATIS**: Podemos introducir una demora, para ofrecer una taza de descarga muy baja, dando la oportunida de unirse como cliente y acceder a una mejor taza.
 
+#### Instalación
 ```sh
-#Instalar
 $ npm install
 
 #Generar archivos de pruebas:
@@ -21,6 +21,7 @@ $ node 1500 test2.file
 $ node 1000000 test3.file
 ```
 
+#### Pruebas
 ```sh
 #Para ejecutar, simulemos diferentes entornos:
 
